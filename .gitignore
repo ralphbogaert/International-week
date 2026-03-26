@@ -1,0 +1,8 @@
+# Ignore all competitions folders and their contents
+goalkeeper_project/data/raw/competitions/
+Project 1 - Finding the new number 1/competitions/
+# Negeer claude bestanden of mappen
+.claude
+# Negeer de Project 1 map
+Project 1 - Finding the new number 1/
+Project 1/
